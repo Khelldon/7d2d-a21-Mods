@@ -12,10 +12,17 @@
 
 <!-- ######################################################### -->
 <!-- ######################################################### -->
-<!-- Khelldon -  -->
+<!-- ######### Khelldon - Bigger Buck And Doe ################ -->
 <!-- ######################################################### -->
 <!-- ######################################################### -->
 
+<!-- Buck -->
+
+	<set xpath="/entity_classes/entity_class[@name='animalDoe']/property[@name='Mass']/@value">200</set>
+
+<!-- Doe -->
+
+	<set xpath="/entity_classes/entity_class[@name='animalDoe']/property[@name='Mass']/@value">150</set>
 
 
 

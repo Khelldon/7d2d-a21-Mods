@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="Khelldon - " />
-		<Description value="" />
+		<Name value="Khelldon - Bigger Buck And Doe" />
+		<Description value="Larger Buck and Doe deer for alpha21" />
 		<Author value="Khelldon" />
-		<Version value="1.0.0" />
+		<Version value="1.0.1" />
 	</ModInfo>
 </xml>
