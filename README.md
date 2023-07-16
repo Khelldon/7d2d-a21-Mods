@@ -1,2 +1,2 @@
-# 7d2d-a21-Mods
- Khelldons 7 Days To Die mods
+# Khelldon's 7 Days To Die Alpha 21 Mods
+ My mods for 7 Days to Die Alpha 21 
