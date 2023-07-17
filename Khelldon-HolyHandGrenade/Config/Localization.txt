@@ -1,4 +1,3 @@
 Key,Source,Context,UsedInMainMenu,NoTranslate,english
-khelldonStarterCrate,blocks,Container,,,Starting Gear: Break This Open
-khelldonStarterCrateDesc,blocks,Container,,,"Your Starting gear. Place on the ground and break to open."
-khelldonStarterCrateOpen,blocks,Container,,,"Starting Gear: Open This"
+khelldonHolyHandGrenade,items,Gun,,,The Holy Hand Grenade of Antioch
+khelldonHolyHandGrenadeDesc,items,Gun,,,"Bless this, O Lord, that with it thou mayst blow thine enemies to tiny bits, in thy mercy."

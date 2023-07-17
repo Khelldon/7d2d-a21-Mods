@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="Khelldon - " />
-		<Description value="" />
+		<Name value="Khelldon - The Holy Hand Grenade of Antioch" />
+		<Description value="Bless this, O Lord, that with it thou mayst blow thine enemies to tiny bits, in thy mercy." />
 		<Author value="Khelldon" />
-		<Version value="1.0.0" />
+		<Version value="1.0.1" />
 	</ModInfo>
 </xml>
