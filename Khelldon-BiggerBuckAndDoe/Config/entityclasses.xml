@@ -18,12 +18,25 @@
 
 <!-- Buck -->
 
-	<set xpath="/entity_classes/entity_class[@name='animalDoe']/property[@name='Mass']/@value">200</set>
+	<!-- <set xpath="/entity_classes/entity_class[@name='animalDoe']/property[@name='Mass']/@value">200</set> -->
 
 <!-- Doe -->
 
-	<set xpath="/entity_classes/entity_class[@name='animalDoe']/property[@name='Mass']/@value">150</set>
+	<!-- <set xpath="/entity_classes/entity_class[@name='animalDoe']/property[@name='Mass']/@value">150</set> -->
 
+
+<!-- Buck -->
+<append xpath="/entity_classes/entity_class[@name='animalStag']">
+    <!-- 10% bigger -->
+	<property name="SizeScale" value="1.5"/>
+</append>
+	
+	
+<!-- Doe -->
+<append xpath="/entity_classes/entity_class[@name='animalDoe']">
+    <!-- 25% bigger -->
+	<property name="SizeScale" value="1.25"/>
+</append>
 
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
