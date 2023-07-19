@@ -16,6 +16,8 @@
 <!-- ######################################################### -->
 <!-- ######################################################### -->
 
+<append xpath="/materials">
+
 <material id="Mice">
 	<property name="damage_category" value="glass"/>
 	<property name="surface_category" value="glass"/>
@@ -28,7 +30,7 @@
 	<property name="Experience" value="2"/>
 </material>
 
-
+</append>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->

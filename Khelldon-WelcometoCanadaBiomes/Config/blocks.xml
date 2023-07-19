@@ -16,6 +16,8 @@
 <!-- ######################################################### -->
 <!-- ######################################################### -->
 
+<append xpath="/blocks">
+
 <block name="terrIce">
 	<property name="TerrainIndex" value="0"/>
 	<property name="CanMobsSpawnOn" value="true"/>
@@ -26,7 +28,8 @@
 	<property name="Shape" value="Terrain"/>
 	<property name="Mesh" value="terrain"/>
 	<!--<property name="Texture" value="6,569,569,569,569,569"/>-->
-    <property name="Texture" value="6"/>
+	<property name="Texture" value="178"/>
+    <!-- <property name="Texture" value="6"/> -->
 	<property name="ImposterExclude" value="true"/>
 	<property name="EconomicValue" value="5"/>
 	<property name="EconomicBundleSize" value="1"/>
@@ -47,6 +50,7 @@
     <property name="TintColor" value="91caff"/>
 </block>
 
+</append>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
