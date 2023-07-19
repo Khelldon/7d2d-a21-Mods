@@ -12,10 +12,21 @@
 
 <!-- ######################################################### -->
 <!-- ######################################################### -->
-<!-- Khelldon -  -->
+<!-- Khelldon - Welcome to Canada Style Biomes -->
 <!-- ######################################################### -->
 <!-- ######################################################### -->
 
+<material id="Mice">
+	<property name="damage_category" value="glass"/>
+	<property name="surface_category" value="glass"/>
+	<property name="particle_destroy_category" value="snow"/>
+	<property name="Hardness" type="float" value="1"/>
+	<property name="stepsound" value="metal"/>
+	<property name="stability_glue" value="60"/>
+	<property name="Mass" type="int" value="10"/>
+	<property name="MaxDamage" value="3000"/>
+	<property name="Experience" value="2"/>
+</material>
 
 
 
