@@ -12,10 +12,15 @@
 
 <!-- ######################################################### -->
 <!-- ######################################################### -->
-<!-- Khelldon -  -->
+<!-- Khelldon - Welcome to Canada Style Biomes -->
 <!-- ######################################################### -->
 <!-- ######################################################### -->
 
+<!-- Lets give the players some winter gear off the bat so they have a fighting chance -->
+
+<append xpath="/entity_classes/entity_class[@name='playerMale']/property[@name='ItemsOnEnterGame.GameModeSurvival']/@value">,apparelSkullCap,apparelBandana,apparelArmyPants,apparelSweatshirt,apparelCoatPufferCoat,apparelGothBoots</append>
+<append xpath="/entity_classes/entity_class[@name='playerMale']/property[@name='ItemsOnEnterGame.GameModeSurvivalSP']/@value">,apparelSkullCap,apparelBandana,apparelArmyPants,apparelSweatshirt,apparelCoatPufferCoat,apparelGothBoots</append>
+<append xpath="/entity_classes/entity_class[@name='playerMale']/property[@name='ItemsOnEnterGame.GameModeSurvivalMP']/@value">,apparelSkullCap,apparelBandana,apparelArmyPants,apparelSweatshirt,apparelCoatPufferCoat,apparelGothBoots</append>
 
 
 

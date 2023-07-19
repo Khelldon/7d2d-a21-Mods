@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="Khelldon - " />
-		<Description value="" />
+		<Name value="Khelldon - Welcome to Canada Style Biomes" />
+		<Description value="Changes all the biomes to different kinds of snow biomes." />
 		<Author value="Khelldon" />
 		<Version value="1.0.0" />
 	</ModInfo>
